@@ -1,4 +1,4 @@
-from time import *
+from time import time, sleep
 
 num1 = int(input('Ввведите а:'))
 num2 = int(input('Введите b:'))
